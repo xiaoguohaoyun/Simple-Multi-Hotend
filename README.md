@@ -110,7 +110,6 @@ PRINT_START BED=[bed_temperature_initial_layer_single] INITIAL_TOOL=[initial_too
 M104 S{nozzle_temperature[next_extruder]} T{next_extruder}
 T{next_extruder}
 ```
-   <img width="856" height="266" alt="image" src="https://github.com/user-attachments/assets/da80e5cb-8308-4561-920f-c88797dbb9b4" />
    <img width="843" height="191" alt="image" src="https://github.com/user-attachments/assets/56e46f3e-005c-4430-9438-d748d005f5c8" />
 
    
